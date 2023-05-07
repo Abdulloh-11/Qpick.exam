@@ -1,0 +1,26 @@
+.catalog{
+  width: 100%;
+  background: #EAEAEA;
+  font-family: 'Montserrat', sans-serif;
+  &__title{
+    margin: 40px 90px;
+  }
+  &__list{
+    &-title{
+      padding: 12px 90px;
+      font-size: 28px;
+      color: #838383;
+      font-weight: 400;
+      font-family: 'Montserrat', sans-serif;
+    }
+  }
+  &__container{
+    width: 100%;
+    min-height: 250vh;
+    margin:  0 auto;
+    padding: 30px 50px;
+  }
+}
+
+
+
